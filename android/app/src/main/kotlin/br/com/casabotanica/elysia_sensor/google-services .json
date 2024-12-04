@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "664204796211",
+    "firebase_url": "https://elysia-ff0f6-default-rtdb.firebaseio.com",
+    "project_id": "elysia-ff0f6",
+    "storage_bucket": "elysia-ff0f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664204796211:android:d55bd13d6a473c85075e46",
+        "android_client_info": {
+          "package_name": "br.com.casabotanica.elysia_sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664204796211-mfjg5mpk2cs6279cgchmkijrnjjpt90g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxaCo2mm_e2PhtNRhc5EeOZ6uZLsIx38o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664204796211-ft6rna4v7604gptt0g0fn4s8h1c5g238.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664204796211-08u076c1vuu92k5i9qg2ls0aj728ki09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.casabotanica.elysiaSensor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664204796211:android:dd8de4f3ff1b3e9e075e46",
+        "android_client_info": {
+          "package_name": "com.example.elysia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664204796211-mfjg5mpk2cs6279cgchmkijrnjjpt90g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxaCo2mm_e2PhtNRhc5EeOZ6uZLsIx38o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664204796211-ft6rna4v7604gptt0g0fn4s8h1c5g238.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664204796211-08u076c1vuu92k5i9qg2ls0aj728ki09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.casabotanica.elysiaSensor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664204796211:android:5ba4cc8c9b974f83075e46",
+        "android_client_info": {
+          "package_name": "com.example.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664204796211-mfjg5mpk2cs6279cgchmkijrnjjpt90g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxaCo2mm_e2PhtNRhc5EeOZ6uZLsIx38o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664204796211-ft6rna4v7604gptt0g0fn4s8h1c5g238.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664204796211-08u076c1vuu92k5i9qg2ls0aj728ki09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.casabotanica.elysiaSensor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
